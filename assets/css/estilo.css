@@ -1,0 +1,56 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+@font-face{
+	font-family: 'FonteLogo';
+	src: url("../_fonts/bubblegum-sans-regular.otf");
+}
+body {
+	font-family: Arial, sans-serif;
+	/*background-color: #dddddd;
+	color: rgba(0,0,0,1)*/
+	
+}
+p {
+	text-align: justify;
+	text-indent: 50px;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+a {
+	color: #606060;
+	text-decoration: none;
+}
+
+
+header#rodape h1{
+	font-family: 'FonteLogo', sans-serif;
+	font-size: 30pt;
+	color: #606060;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+header#rodape h2{
+	font-family: 'Titillium Web', sans-serif;
+	color: #888888;
+	font-size: 15pt;
+	padding: 0px;
+	margin-top: 0px;
+}	
+
+
+header#rodape p{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
